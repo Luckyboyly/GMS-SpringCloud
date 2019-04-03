@@ -1,6 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    password:"{cipher}336db2b365af26d5b53f4ddc08dd9d0c05ab228a2b3b73b0e316c380982a2a13"
+    password:"{cipher}336db2b365af26d5b53f4ddc08dd9d0c05ab228a2b3b73b0e316c3809
+82a2a13"
     url: jdbc:mysql://localhost:3306/boot
     username: root
